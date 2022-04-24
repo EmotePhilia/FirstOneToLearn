@@ -4,4 +4,4 @@ Some description.
 
 ## subheader
 
-Działaj
+Działa
